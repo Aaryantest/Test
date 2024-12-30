@@ -1,0 +1,28 @@
+A. Theatre Squaretime limit per test1 secondmemory limit per test256 megabytesinputstdinoutputstdout
+A. Theatre Square
+time limit per test1 second
+time limit per test
+memory limit per test256 megabytes
+memory limit per test
+inputstdin
+input
+outputstdout
+output
+Theatre Square in the capital city of Berland has a rectangular shape with the size n × m meters. On the occasion of the city's anniversary, a decision was taken to pave the Square with square granite flagstones. Each flagstone is of the size a × a.What is the least number of flagstones needed to pave the Square? It's allowed to cover the surface larger than the Theatre Square, but the Square has to be covered. It's not allowed to break the flagstones. The sides of flagstones should be parallel to the sides of the Square.
+Theatre Square in the capital city of Berland has a rectangular shape with the size n × m meters. On the occasion of the city's anniversary, a decision was taken to pave the Square with square granite flagstones. Each flagstone is of the size a × a.
+What is the least number of flagstones needed to pave the Square? It's allowed to cover the surface larger than the Theatre Square, but the Square has to be covered. It's not allowed to break the flagstones. The sides of flagstones should be parallel to the sides of the Square.
+InputThe input contains three positive integer numbers in the first line: n,  m and a (1 ≤  n, m, a ≤ 109).
+Input
+The input contains three positive integer numbers in the first line: n,  m and a (1 ≤  n, m, a ≤ 109).
+OutputWrite the needed number of flagstones.
+Output
+Write the needed number of flagstones.
+ExamplesInputCopy6 6 4OutputCopy4
+Examples
+InputCopy6 6 4OutputCopy4
+InputCopy6 6 4
+InputCopy
+Copy
+OutputCopy4
+OutputCopy
+Copy

@@ -1,0 +1,28 @@
+B. The least round waytime limit per test2 secondsmemory limit per test64 megabytesinputstdinoutputstdout
+B. The least round way
+time limit per test2 seconds
+time limit per test
+memory limit per test64 megabytes
+memory limit per test
+inputstdin
+input
+outputstdout
+output
+There is a square matrix n × n, consisting of non-negative integer numbers. You should find such a way on it that   starts in the upper left cell of the matrix;  each following cell is to the right or down from the current cell;  the way ends in the bottom right cell. Moreover, if we multiply together all the numbers along the way, the result should be the least "round". In other words, it should end in the least possible number of zeros.
+There is a square matrix n × n, consisting of non-negative integer numbers. You should find such a way on it that
+Moreover, if we multiply together all the numbers along the way, the result should be the least "round". In other words, it should end in the least possible number of zeros.
+InputThe first line contains an integer number n (2 ≤ n ≤ 1000), n is the size of the matrix. Then follow n lines containing the matrix elements (non-negative integer numbers not exceeding 109).
+Input
+The first line contains an integer number n (2 ≤ n ≤ 1000), n is the size of the matrix. Then follow n lines containing the matrix elements (non-negative integer numbers not exceeding 109).
+OutputIn the first line print the least number of trailing zeros. In the second line print the correspondent way itself.
+Output
+In the first line print the least number of trailing zeros. In the second line print the correspondent way itself.
+ExamplesInputCopy31 2 34 5 67 8 9OutputCopy0DDRR
+Examples
+InputCopy31 2 34 5 67 8 9OutputCopy0DDRR
+InputCopy31 2 34 5 67 8 9
+InputCopy
+Copy
+OutputCopy0DDRR
+OutputCopy
+Copy
